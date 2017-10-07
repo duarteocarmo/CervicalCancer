@@ -1,5 +1,7 @@
 # CervicalCancer
 
+In collaboration with Konstantinos Kalogeropoulos.
+
 ### Purpose:
 
 Patients usually are not familiarized with the importance of routine screening for diseases that canpotentially have a huge effect in their lives. This low problem awareness is often more prominent indeveloping countries, when this fact is combined with the limited resources these countries can offer.Moreover, the choice of the screening method highly depends on the medical personnel’s expertise andpreferences.
