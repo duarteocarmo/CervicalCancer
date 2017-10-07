@@ -10,9 +10,9 @@ The aim of this project is to attempt to predict the risk of cervical cancer fro
 
 ### Parts:
 
-- Get the first part here.
-- Get the second part here.
-- Get the third part here.
+- Get the first part [here](https://www.dropbox.com/s/inzgff0gtp68q0h/Machine_Learning_Project_1%20%282%29.pdf?dl=0).
+- Get the second part here. *(in progress)*
+- Get the third part here. *(in progress)*
 
 ### Some findings: 
 
