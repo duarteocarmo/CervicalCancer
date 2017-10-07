@@ -22,7 +22,7 @@ The aim of this project is to attempt to predict the risk of cervical cancer fro
 - Four principal components were enough to account for more than 90% of the variance in thedata set. These 4 PCs emphasize variations in age, years of smoking, years of taking hormonalcontraceptives and year of first sexual intercourse, respectively.
 - The positive class (has CC) appears to be centralized in the negative class clusters, in almost ofthe plots of the first four PCs against each other.
 
-### Some cool figures: 
+### Some data visualisation: 
 
 PCA correlations: 
 
