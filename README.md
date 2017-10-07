@@ -24,8 +24,8 @@ The aim of this project is to attempt to predict the risk of cervical cancer fro
 
 PCA correlations: 
 
-![PCA_MATRIX](/Users/duarteocarmo/SourceTree_Repos/CervicalCancer/Images/PCA_MATRIX.png)
+![PCA_MATRIX](https://github.com/duarteocarmo/CervicalCancer/blob/master/Images/PCA_MATRIX.png)
 
 Attribute correlations: 
 
-![Attribute Correlation](/Users/duarteocarmo/SourceTree_Repos/CervicalCancer/Images/Attribute Correlation.png)
+![Attribute Correlation](https://github.com/duarteocarmo/CervicalCancer/blob/master/Images/Attribute%20Correlation.png)
