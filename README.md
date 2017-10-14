@@ -1,6 +1,6 @@
 # CervicalCancer
 
-In collaboration with Konstantinos Kalogeropoulos.
+In collaboration with [Konstantinos Kalogeropoulos.](https://www.researchgate.net/profile/Konstantinos_Kalogeropoulos3)
 
 ### Purpose:
 
